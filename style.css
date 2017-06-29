@@ -16,3 +16,6 @@ input {
 #cards{
 	display: inline-block;
 }
+.back {
+	display:none;
+}
